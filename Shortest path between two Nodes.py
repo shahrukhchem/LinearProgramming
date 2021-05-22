@@ -30,10 +30,9 @@ def Generate_CM(no_of_nodes):
     '''
     -The Matrix represent the graph where x(i,j) represent the cost of going from point i to j 
     in the graph 
-    -This is example Matrix where x(i, j)  is cost of going from i to j
     -This Matrix represent a bidirectional graph
     '''
-    #x[0,4]=290
+  
     return x
 
 sr=Model(name='Shortest Route')
