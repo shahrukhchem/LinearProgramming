@@ -70,6 +70,8 @@ def solve_model():
         print('notsolved')
     
 
+solve_model()
+    
 
 
 
